@@ -30,7 +30,7 @@
 
 ## Router
 - Connects different networks together
-- Acts as a Gateway — the exit point for hosts leaving their local network
+- Gateway is the router's IP address that hosts use to reach other networks
 
 ## Switch & Router Diagram
 <img width="1357" height="605" alt="Screenshot 2026-06-03 at 4 03 39 PM" src="https://github.com/user-attachments/assets/0d4ade3f-ad07-4bd8-9e77-5423d97a34b8" />
